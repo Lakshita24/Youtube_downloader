@@ -5,7 +5,6 @@ Spyder Editor
 This is a temporary script file.
 """
  # YouTube Video Downloader
-# Anshumali 
 
 import os
 from tkinter import *
